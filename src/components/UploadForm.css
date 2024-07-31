@@ -1,0 +1,38 @@
+.form-container {
+    text-align: center;
+    padding: 20px;
+  }
+  
+  .dropzone {
+    border: 2px dashed #007BFF;
+    padding: 20px;
+    cursor: pointer;
+  }
+  
+  .textarea-container {
+    margin-top: 20px;
+    text-align: left;
+  }
+  
+  .textarea {
+    margin-left: 10px;
+    padding: 10px;
+    width: 80%;
+    height: 150px;
+    resize: vertical;
+    overflow: auto;
+  }
+  
+  .button {
+    margin-top: 20px;
+    padding: 10px 20px;
+    background-color: #007BFF;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+  
+  .loading-spinner {
+    margin-top: 20px;
+  }
